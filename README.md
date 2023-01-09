@@ -1,6 +1,6 @@
 # Hi, ForkKILLET here
 
-- :school: Senior one student
+- :school: Senior two student
 - :sparkles: No code no life! Write tools and share
 - :wave: Away from OI (tg2=)
 - :chocolate_bar: :cat2: :alembic:
