@@ -1,6 +1,6 @@
 # Hi, ForkKILLET here
 
-- :school: Year 2
+- :school: Year 3
 - :sparkles: No code no life! Write tools and share
 - :wave: Away from OI
 - :zap: Use zsh ([config](https://github.com/ForkKILLET/FkHome/blob/M/.zshrc)) · vim ([config](https://github.com/ForkKILLET/FkVim)) · NixOS ([config](https://github.com/ForkKILLET/FkHome/blob/M/nixos))
